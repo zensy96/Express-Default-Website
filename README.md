@@ -40,3 +40,7 @@ To start the script, type the command below
 ```
 npm start
 ```
+
+### Authors
+
+[zensy](https://github.com/zensyz)
