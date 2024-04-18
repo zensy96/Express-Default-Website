@@ -43,4 +43,4 @@ npm start
 
 ### Authors
 
-[zensy](https://github.com/zensyz)
+[znsy](https://github.com/zensy96)
